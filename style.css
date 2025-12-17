@@ -477,5 +477,8 @@ header img{
   #design .web_color{
     height: 50px;
   }
+  .small_text{
+    font-size: 20px;
+  }
 }
 
